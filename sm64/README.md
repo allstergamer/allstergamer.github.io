@@ -14,7 +14,5 @@
       <div id="controller">
         <h2>You can use a controller!</h2>
         <h2>You can save!</h2>
-        <h2>Press page down to hide these instructions.</h2>
-        <h2>Press page up to see them again.</h2>
       </div>
     </div>
